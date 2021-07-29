@@ -1,1 +1,5 @@
 This directory contains figures showing the effect of the parameters on the diffusion map
+
+
+1. Noise parameter: temporal window to be used as described in thesis
+2. Number of nearest neighbors to consider for the kernel: higher nn increases computation time
