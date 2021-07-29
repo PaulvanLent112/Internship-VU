@@ -6,7 +6,7 @@ Code used for the thesis: characterizing spontaneous activity in the Zebrafish b
 Summary:
 This repository consists of the code used for the results in the thesis: Characterizing spontaneous activity in the Zebrafish brain. 
 Content:
-1. Supporting functions used in all the underlying code: some were received from the work of dr. Antonio Costa for a paper on a transfer operator approach for C. elegans postural dynamics. 
+1. Supporting functions used in all underlying code: some were received from the work of dr. Antonio Costa for a paper on a transfer operator approach for C. elegans postural dynamics. 
 For all functions that were inspired or received from various sources, the sources are stated within the function.
 2. The code used for determining K: entropy rate decrease for K.
 3. PCA plots, for different K
