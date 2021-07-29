@@ -1,0 +1,7 @@
+Contains all diffusion maps for all datasets:
+1. Wt midbrain
+2. DM midbrain
+3. Wt forebrain
+4. DM forebrain
+
+Parameters were set according to thesis and table S1 of supporting info in thesis.
